@@ -24,7 +24,7 @@ Lecture notes can be found on the course Canvas website.
 | Week 7, Tuesday           | February 13| Diffusion models, DDPM, cassifier-free guidance |   |
 | Week 7, Thursday       | February 15| Diffusion model code, some diffusion model tricks   | |
 | Week 8, Tuesday       | February 20| Stable Diffusion, tuning stable diffusion, Brian’s code  |   |
-| Week 8, Thursday   | February 22| Frontiers, using LLMs to help diffusion models by planning out images. Instance recognition and inserting new objects %s tricks Using LLMs to help diffusion models by planning out images. Consistency models SD Edit  Diffusion in robotics.                                      | |
+| Week 8, Thursday   | February 22| Frontiers, using LLMs to help diffusion models by planning out images. Instance recognition and inserting new objects %s tricks. Consistency models, SD Edit,  Diffusion in robotics.                                      | |
 | Week 9, Tuesday |  February 27| Presentations  | |
 | Week 9, Thursday   |  February 29| Presentations |  |
 | Week 10, Tuesday   |  March 5th| Presentations  |  |
