@@ -40,4 +40,4 @@ Lecture notes can be found on the course Canvas website.
 |            |     |   |
 |     |        |  |
 | Final presentation topic proposals |         |     | 
-|  Final presentations        |       |  February 27  |
+|  Final presentations        |       |   |
