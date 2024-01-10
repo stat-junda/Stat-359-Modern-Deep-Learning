@@ -36,7 +36,7 @@ Lecture notes can be found on the course Canvas website.
 
 | Project title                  | Date released | Due date                
 |--------------------------------|---------------|-------------------------|
-|   Homework 1       | Jan 9   | Jan 25  |
-|     Homework 2       |  Jan 30   | Feb 15  |
+|   Assignment 1       | Jan 9   | Jan 25  |
+|     Assignment 2      |  Jan 30   | Feb 15  |
 | Final presentation topic proposals |       |  Feb 15   | 
 |  Final presentations        |       | February 27  |
