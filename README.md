@@ -12,7 +12,7 @@ Lecture notes can be found on the course Canvas website.
 |--------------------------|-------|----------|----------------------------|
 | Week 1, Thursday         | January 4 |   Introduction  | [Perplexity](https://thegradient.pub/understanding-evaluation-metrics-for-language-models/), [Perplexity 2](https://web.stanford.edu/~jurafsky/slp3/3.pdf), [Linear Models](https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf)  |
 | Week 2, Tuesday           | January 9  | Attention |  [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf), [Attention Mechanisms](https://lilianweng.github.io/posts/2018-06-24-attention/), [Attention with code](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html), [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) |
-| Week 2. Thursday       | January 11 | Transformers |   |
+| Week 2. Thursday       | January 11 | Transformers |  [Intro to Transformers](https://arxiv.org/pdf/2304.10557.pdf), [Discussion](https://www.columbia.edu/~jsl2239/transformers.html), [Blog post](https://peterbloem.nl/blog/transformers) |
 | Week 3, Tuesday            | January 16 | Coding a transformer |   |
 | Week 3, Thursday         | January 18| BERT, GPT, LLAMA | |
 | Week 4, Tuesday            | January 23| Prompt Tuning, chain of thought, hindsight chain of thought, backwards chain of thought, Graph of Thought, Tree of Thought, Training Chain-of-Thought via Latent-Variable Inferenc, prompt engineering |   |
