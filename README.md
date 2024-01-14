@@ -16,7 +16,7 @@ Lecture notes can be found on the course Canvas website.
 | Week 3, Tuesday            | January 16 | Coding a transformer |   |
 | Week 3, Thursday         | January 18| BERT, GPT, LLAMA | |
 | Week 4, Tuesday            | January 23| Prompt Tuning, chain of thought, hindsight chain of thought, backwards chain of thought, Graph of Thought, Tree of Thought, Training Chain-of-Thought via Latent-Variable Inferenc, prompt engineering |   |
-| Week 4, Thursday          | January 25| Fine tuning, parameter-efficient fine tuning, LORA, SFT, quantization |   |
+| Week 4, Thursday          | January 25| Fine tuning, parameter-efficient fine tuning, LORA, SFT, Neftune, quantization |   |
 | Week 5, Tuesday        | January 30 | Hugging face, fine tuning LLAMA    |  |
 | Week 5, Thursday          | February 1| RAG, when to use RAG vs SFT, lexacagraphical vs semantic search, sentence transformers, Retrieval transofrmers and long term memory in transformers, RAG Code. | |
 | Week 6, Tuesday        | February 6| ChatGPT and RLHF, rejection sampling, DPO, Gopher Cite  | |
