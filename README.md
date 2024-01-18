@@ -22,7 +22,7 @@ Lecture notes can be found on the course Canvas website.
 | Week 6, Tuesday        | February 6|  RAG, when to use RAG vs SFT, lexacagraphical vs semantic search, sentence transformers, Retrieval transformers and long term memory in transformers, RAG Code. | |
 | Week 6, Thursday       | February 8| ChatGPT and RLHF, rejection sampling, DPO, Gopher Cite   |  |
 | Week 7, Tuesday           | February 13| Asking questions about images. Conditional layer norm, FILM, CLIP, BLIP, LAVA |   |
-| Week 7, Thursday       | February 15| iffusion models, DDPM, classifier-free guidance   | |
+| Week 7, Thursday       | February 15| Diffusion models, DDPM, classifier-free guidance   | |
 | Week 8, Tuesday       | February 20| Stable Diffusion, tuning stable diffusion, Brian’s code  |   |
 | Week 8, Thursday   | February 22| Frontiers, using LLMs to help diffusion models by planning out images. Instance recognition and inserting new objects %s tricks. Consistency models, SD Edit,  Diffusion in robotics.                                      | |
 | Week 9, Tuesday |  February 27| Presentations  | |
