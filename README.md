@@ -18,11 +18,11 @@ Lecture notes can be found on the course Canvas website.
 | Week 4, Tuesday            | January 23| Prompt Tuning, chain of thought, hindsight chain of thought, backwards chain of thought, Graph of Thought, Tree of Thought, Training Chain-of-Thought via Latent-Variable Inferenc, prompt engineering | [Language Models are Few Shot Learners](https://arxiv.org/abs/2005.14165), [Model Calibration](https://arxiv.org/abs/2012.15723), [Zero shot chain of thought](https://arxiv.org/abs/2205.11916), [LLMs are human-level prompt engineers](https://arxiv.org/abs/2211.01910), [Tree of Thought](https://arxiv.org/abs/2305.10601), [Chain of verification](https://arxiv.org/abs/2309.11495), [Chain of hindsight](https://arxiv.org/abs/2302.02676), [Promptbreeder](https://arxiv.org/abs/2309.16797), [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file), [Open-AI Prompting Guide](https://platform.openai.com/docs/guides/prompt-engineering/six-strategies-for-getting-better-results)  |
 | Week 4, Thursday          | January 25| Fine tuning, parameter-efficient fine tuning, LORA, SFT, Neftune, quantization |   |
 | Week 5, Tuesday        | January 30 | Hugging face, fine tuning LLAMA    |  |
-| Week 5, Thursday          | February 1| RAG, when to use RAG vs SFT, lexacagraphical vs semantic search, sentence transformers, Retrieval transofrmers and long term memory in transformers, RAG Code. | |
-| Week 6, Tuesday        | February 6| ChatGPT and RLHF, rejection sampling, DPO, Gopher Cite  | |
-| Week 6, Thursday       | February 8| Asking questions about images. Conditional layer norm, FILM, CLIP, BLIP, LAVA  |  |
-| Week 7, Tuesday           | February 13| Diffusion models, DDPM, classifier-free guidance |   |
-| Week 7, Thursday       | February 15| Diffusion model code, some diffusion model tricks   | |
+| Week 5, Thursday          | February 1| No class | |
+| Week 6, Tuesday        | February 6|  RAG, when to use RAG vs SFT, lexacagraphical vs semantic search, sentence transformers, Retrieval transformers and long term memory in transformers, RAG Code. | |
+| Week 6, Thursday       | February 8| ChatGPT and RLHF, rejection sampling, DPO, Gopher Cite   |  |
+| Week 7, Tuesday           | February 13| Asking questions about images. Conditional layer norm, FILM, CLIP, BLIP, LAVA |   |
+| Week 7, Thursday       | February 15| iffusion models, DDPM, classifier-free guidance   | |
 | Week 8, Tuesday       | February 20| Stable Diffusion, tuning stable diffusion, Brian’s code  |   |
 | Week 8, Thursday   | February 22| Frontiers, using LLMs to help diffusion models by planning out images. Instance recognition and inserting new objects %s tricks. Consistency models, SD Edit,  Diffusion in robotics.                                      | |
 | Week 9, Tuesday |  February 27| Presentations  | |
